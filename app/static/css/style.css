@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 5px;
+    /*border: 1px solid green;*/
+}
+body{
+    background: silver;
+}
+header{
+    background: blue;
+    text-align: center;
+    color: white;
+}
+main{
+    background: whitesmoke;
+    border-radius: 8px;
+}
+main h2{
+    text-align: center;
+}
+ul {
+    margin: 2px 20px;
+}
+li {
+    margin: 2px 20px;
+}
+.exemplo{
+    display: block;
+    background: black;
+    color: yellow;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 300px;
+}
+footer{
+    background: blue;
+    text-align: center;
+    color: white;
+}
